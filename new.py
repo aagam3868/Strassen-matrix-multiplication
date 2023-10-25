@@ -100,7 +100,7 @@ def inputMatrix(matrix, rows, cols):
         matrix.append(row)
     return True
 
-# Function to take input for matrix dimensions
+# Function to take input for matrix Dimensions
 def inputDimensions():
     sz = int(input("\n Enter the size of Matrix: "))
     rows = sz
