@@ -1,5 +1,5 @@
 
-#Function to print the matrix
+
 def printMat(a, r, c): 
 	for i in range(r): 
 		for j in range(c): 
