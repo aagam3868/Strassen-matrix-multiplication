@@ -89,7 +89,7 @@ def multiply_matrix(matrix_A, matrix_B):
 
 
 
-# Function to take input for a matrix
+
 def inputMatrix(matrix, rows, cols):
     print("\nEnter the elements of the matrix:")
     for i in range(rows):
