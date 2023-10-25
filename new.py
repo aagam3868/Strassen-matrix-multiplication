@@ -16,7 +16,7 @@ def printt(display, matrix, start_row, start_column, end_row,end_column):
 		print() 
 	print() 
 
-#Function to add two matrices
+
 def add_matrix(matrix_A, matrix_B, matrix_C, split_index): 
 	for i in range(split_index): 
 		for j in range(split_index): 
