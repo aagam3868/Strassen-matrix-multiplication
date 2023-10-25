@@ -28,7 +28,7 @@ def initWithZeros(a, r, c):
 		for j in range(c): 
 			a[i][j] = 0
 
-#Function to multiply two matrices
+
 def multiply_matrix(matrix_A, matrix_B): 
 	col_1 = len(matrix_A[0]) 
 	row_1 = len(matrix_A) 
