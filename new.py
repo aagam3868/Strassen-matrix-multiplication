@@ -22,7 +22,7 @@ def add_matrix(matrix_A, matrix_B, matrix_C, split_index):
 		for j in range(split_index): 
 			matrix_C[i][j] = matrix_A[i][j] + matrix_B[i][j] 
 
-#Function to initialize matrix with zeros
+
 def initWithZeros(a, r, c): 
 	for i in range(r): 
 		for j in range(c): 
