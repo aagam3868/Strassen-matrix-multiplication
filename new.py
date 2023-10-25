@@ -7,7 +7,7 @@ def printMat(a, r, c):
 		print() 
 	print() 
 
-#Function to print the matrix
+
 def printt(display, matrix, start_row, start_column, end_row,end_column): 
 	print(display + " =>\n")
 	for i in range(start_row, end_row+1): 
